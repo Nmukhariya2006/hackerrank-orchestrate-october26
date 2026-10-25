@@ -1,0 +1,4 @@
+pypdf>=4.0
+anthropic>=0.40      # optional: only for the LLM fallback
+pytesseract>=0.3     # optional: only for OCR of images
+pillow>=10.0         # optional: only for OCR of images
