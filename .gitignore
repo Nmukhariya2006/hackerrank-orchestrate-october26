@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+debug.txt
+log.txt
+output.csv
+output_sample.csv
+additional_results.csv
+additional_evaluation_cases.csv
+
+code/__iniy__.py
